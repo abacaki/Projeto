@@ -15,9 +15,9 @@ Esse projeto desenvolvido durante a primeira aula de JavaScript.
 O objetivo foi aprender:
 
 - utilizar o VS Code;
-- executar o JavaScript com Node.js
-- utilizar o Terminal
-- criar documentação utilizando Markdown
+- executar o JavaScript com Node.js;
+- utilizar o Terminal;
+- criar documentação utilizando Markdown.
 
 ## 🗂️Estrutura
 
@@ -48,17 +48,17 @@ console.log("Olá, mundo");
 ---
 ## Tecnologias
 
-- JavaScript
-- Node.js
-- Visual Studio Code
-- Markdown
+- JavaScript;
+- Node.js;
+- Visual Studio Code;
+- Markdown.
   
 ## O Que Aprendi
 
-- Criar arquivos JavaScript
-- Executar programas
-- Criar README
-- Utilizar Markdown
-- Git
-- Variável
-- Operadores
+- Criar arquivos JavaScript;
+- Executar programas;
+- Criar README;
+- Utilizar Markdown;
+- Git;
+- Variável;
+- Operadores.
