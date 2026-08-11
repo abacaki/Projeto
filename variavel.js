@@ -50,5 +50,5 @@ console.log("Número:", numero);
 console.log(`Número: ${numero}`);
 
 const idade = 16; // Number
-const matruclaAtiva = true; // Boolean
+const matriculaAtiva = true; // Boolean
 const tel = null; // Null
